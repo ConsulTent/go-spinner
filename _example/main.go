@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/janeczku/go-spinner"
+	"github.com/consultent/go-spinner"
 )
 
 func main() {

@@ -10,7 +10,7 @@ The indicator automagically converts itself in a simple log message if it detect
 
 To install `spinner.go`, simply run:
 ```
-$ go get github.com/janeczku/go-spinner
+$ go get github.com/consultent/go-spinner
 ```
 
 Make sure your `PATH` includes to the `$GOPATH/bin` directory so your commands can be easily used:
@@ -25,7 +25,7 @@ package main
 
 import (
 	"time"
-	"github.com/janeczku/go-spinner"
+	"github.com/consultent/go-spinner"
 	
 )
 
